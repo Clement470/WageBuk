@@ -16,7 +16,7 @@
     <label>Hours:</label>
     <input type="number" name="hours" min="0" max="120" placeholder="🕒"><br><br>
     <label>Rate:</label>
-    <input type="number" name="rate" min="1" step="any" placeholder="$">
+    <input type="number" name="rate" min="1" step="any" placeholder="$" required>
     <input type="submit" value="Calculate"><br><br>
   </form>
   </div>
