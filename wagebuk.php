@@ -13,7 +13,7 @@
     Estimate your weekly earnings effortlessly with our user-friendly salary calculator. Input your hourly rate, hours worked, click on Calculate, and get an instant calculation. Perfect for employees and freelancers alike. Start planning your finances today!
 </p>
 <div>
-  <h1>Hello Glory</h1>
+  <h1>Hello Grace</h1>
 </div>
   <form action="wagebuk.php" method="post">
     <label>Hours:</label>
